@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GeneticAlgorithms.vcxproj -> C:\Users\Gabriel Pilakis\Documents\GASYSTEM\ComplexGameSystem Submission1\SourceCode\GAREPO\trunk\GASystem\temp\GeneticAlgorithms\x64\Debug\GeneticAlgorithms.exe

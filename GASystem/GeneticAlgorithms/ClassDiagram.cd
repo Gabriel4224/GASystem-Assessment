@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GASystem&lt;T, NEW_GENES, POPULATION, RANDOMISE&gt;">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAQAAAAAAAIAEAAAAABQACAAAABCAAAAACAAAA=</HashCode>
+      <FileName>GASystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="aie::Renderer2D">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="aie::Renderer2D::__unnamed_enum_000e_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\Users\s171011\Desktop\Assessment2 adjustments\Genetic Algorithm\aieBootstrap-master\bootstrap\Renderer2D.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="aie::Renderer2D::__unnamed_enum_000e_2" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\Users\s171011\Desktop\Assessment2 adjustments\Genetic Algorithm\aieBootstrap-master\bootstrap\Renderer2D.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="aie::Renderer2D::SBVertex" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\Users\s171011\Desktop\Assessment2 adjustments\Genetic Algorithm\aieBootstrap-master\bootstrap\Renderer2D.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAwCCaBAEGAIAAAIEYAAQQQAERUAIBAWAUAABFQAA=</HashCode>
+      <FileName>c:\Users\s171011\Desktop\Assessment2 adjustments\Genetic Algorithm\aieBootstrap-master\bootstrap\Renderer2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Maze::Nodes">
+        <TypeIdentifier>
+          <NewMemberFileName>Maze.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="Maze::MazePosition">
+        <TypeIdentifier>
+          <NewMemberFileName>Maze.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAQAAAAAhCAABIAgAIDDAA=</HashCode>
+      <FileName>Maze.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeneticAlgorithmsApp">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIgAAAAAAAABBAIAIAAgAAAAAQBAAAAAAAAEIEA=</HashCode>
+      <FileName>GeneticAlgorithmsApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
